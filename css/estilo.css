@@ -1,0 +1,138 @@
+th{
+    background-color:rgb(33, 146, 156);
+}
+td{
+    background-color: rgb(236, 231, 236);
+    text-align: center;
+
+
+}
+tr{
+    border-color: rgb(0, 0, 0);
+    border-bottom: 10px;
+    border-style: solid;
+}
+img{
+    width: 190px;
+    height: 140px;
+}
+h1{
+    background-color: rgb(73, 68, 75);
+    color: rgb(226, 43, 150);
+    display: flex;
+    justify-content: center;
+    
+}
+body{
+    background-color: rgb(54, 49, 49);
+    background-image: url(https://i.pinimg.com/564x/ea/ef/92/eaef926461ea13206e0f921344ddf625.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#vamonos{
+    background-image: url(https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/78/c7/cc/78c7ccdb-fb96-def2-bcfe-71e2a000bea2/0.jpg/400x400cc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#seguro{
+    background-image: url(https://i.scdn.co/image/ab67616d0000b273faeeaf8bc61b76de0117a171);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#propuesta{
+    background-image:url(http://1.bp.blogspot.com/-tffMYvF-etQ/VOjbhX9X-_I/AAAAAAAAACY/YD2dDI40jBc/s1600/Romeo%2BSantos%2B-%2BPropuesta%2BIndecente%2Bwww.tuslyricas.blogspot.com%2Bsnydell.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#perfect{
+    background-image: url(https://i0.wp.com/www.alexurbanpop.com/wp-content/uploads/2017/11/Ed-Sheeran-Perfect-Single-Cover-e1574040397628.jpg?fit=953%2C953&ssl=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#mucho{
+    background-image: url(https://i.scdn.co/image/ab67616d0000b273321ab33ea73dc263edb8bcea);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#endaño{
+    background-image: url(https://c.saavncdn.com/101/3AM-English-2016-500x500.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#colgando{
+    background-image: url(https://i1.sndcdn.com/artworks-000361437612-z5x19m-t500x500.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#colapso{
+    background-image: url(https://i.ytimg.com/vi/YUm-LpX1vvY/hqdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#chance{
+    background-image: url(https://www.objetivoreggaeton.com/wp-content/uploads/2022/04/paulo-londra-il-nuovo-numero-1-della-musica-a-livello-mondiale-pubblica-chance-una-canzone-in-cui-racconta-un-amore-a-prima-vista.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bailando{
+    background-image: url(https://phantom-telva.unidadeditorial.es/277a91451daf91d40a90c4a13db6479a/resize/828/f/jpg/assets/multimedia/imagenes/2019/04/29/15565516126793.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*header*/
+
+
+
+/*main*/
+main{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+table{
+    background-color: rgb(0, 0, 0);
+    width: 78%;
+    border-color: crimson;
+    border-top: 10px;
+    border-style: solid;
+    border-collapse: collapse;
+}
+p{
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+/*footer*/
+footer{
+    text-align: right;
+    background-color: darkorchid;
+    height: 193px;
+    
+}
+h3{
+    display: flex;
+    justify-content: center;
+    
+}
+h2{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
